@@ -1,0 +1,9 @@
+#1 Репозиторий на git/readme.md
+#2 Структура проекта components=[header, product, shopping]
+                     constants=[catalog, root]
+                     utils=[localStorageUtil]
+                     css=[index.css]
+                     img=[]
+#3 Структура html-file util, header, product, shopping
+#4 Каталог {id: '', name: '', img: '', price: ''}
+------------------------------------------------------------
